@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Test_A</string>
+    <string name="test">Тест</string>
+    <string name="history">История</string>
+    <string name="title">Sort by</string>
+    <string-array name="sortlist">
+        <item>Sort by Date</item>
+        <item>Sort by Status</item>
+    </string-array>
+</resources>
